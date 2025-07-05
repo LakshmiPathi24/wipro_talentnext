@@ -1,0 +1,12 @@
+package java_fundamentals;
+import java.util.*;
+ class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String str1 = sc.newLine();
+		String str2 = sc.newLine();
+		System.out.println(str1 + "Technologies" + str2);
+	}
+
+}
